@@ -117,3 +117,11 @@ nav ul{
         grid-template-columns: repeat(3, 20vw);
     }
 }
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e75d07;
+    font-size: 20px;
+    padding: 20px;
+}
